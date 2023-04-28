@@ -27,6 +27,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 I've built the code on VSC not using figma or anything else.
 
+### Link
+
+Here is the link for the live (https://makstinyworkshop.github.io/fm_1/)
+
 ### Built with
 
 - Semantic HTML5 markup
